@@ -1,7 +1,7 @@
 # ComfyUI CFG+++ 
-```
-this is a copy of this repo: https://gitea.com/NotEvilGirl/cfgpp 
-```
+
+***this is a copy of this repo: https://gitea.com/NotEvilGirl/cfgpp ***
+
 
 CFG++ implemented according to https://cfgpp-diffusion.github.io/
 Basically modified DDIM sampler that makes sampling work at low CFG values (0 ~ 2)
